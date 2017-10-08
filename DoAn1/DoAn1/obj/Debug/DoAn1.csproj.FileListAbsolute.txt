@@ -1,0 +1,11 @@
+F:\CODE\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+F:\CODE\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+F:\CODE\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.csprojResolveAssemblyReference.cache
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.Cache
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.FrmMain.resources
+F:\CODE\DoAn1\DoAn1\obj\Debug\DoAn1.FrmThongTin.resources
